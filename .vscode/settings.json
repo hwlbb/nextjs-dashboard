@@ -1,4 +1,4 @@
 {
-    "commentTranslate.hover.enabled": true,
-    "typescript.tsdk": "node_modules\\typescript\\lib",
+  "commentTranslate.hover.enabled": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib"
 }
